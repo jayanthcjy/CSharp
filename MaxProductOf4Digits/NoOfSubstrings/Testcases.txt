@@ -1,0 +1,4 @@
+﻿1.The input number can be any positive integer or a string representation of a positive integer "Positive"
+2.The length of the input number should be greater than or equal to 4 "Negative"
+3.The input number cannot contain other than from 0 to 9 "Negative"
+4.Verify the number is not negative "Negative"

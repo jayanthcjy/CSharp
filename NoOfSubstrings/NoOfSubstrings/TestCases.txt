@@ -1,0 +1,6 @@
+﻿
+1.The strings S1 and S2 can contain uppercase and lowercase letters, as well as 
+  special characters and digits. "Positive"
+2.The search for the substring should be case-sensitive. "Positive". 
+3.Verify that S1>=S2 "Negative"
+4.Verify that both S1 and S2 are not null "Negative"

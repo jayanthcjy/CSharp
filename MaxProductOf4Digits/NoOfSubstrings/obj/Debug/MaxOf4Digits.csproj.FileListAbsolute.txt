@@ -1,0 +1,16 @@
+C:\Users\Jayanth C\source\repos\NoOfSubstrings\NoOfSubstrings\bin\Debug\NoOfSubstrings.exe.config
+C:\Users\Jayanth C\source\repos\NoOfSubstrings\NoOfSubstrings\bin\Debug\NoOfSubstrings.exe
+C:\Users\Jayanth C\source\repos\NoOfSubstrings\NoOfSubstrings\bin\Debug\NoOfSubstrings.pdb
+C:\Users\Jayanth C\source\repos\NoOfSubstrings\NoOfSubstrings\obj\Debug\MaxOf4Digits.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\NoOfSubstrings\NoOfSubstrings\obj\Debug\MaxOf4Digits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jayanth C\source\repos\NoOfSubstrings\NoOfSubstrings\obj\Debug\MaxOf4Digits.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\NoOfSubstrings\NoOfSubstrings\obj\Debug\NoOfSubstrings.exe
+C:\Users\Jayanth C\source\repos\NoOfSubstrings\NoOfSubstrings\obj\Debug\NoOfSubstrings.pdb
+C:\Users\Jayanth C\source\repos\MaxProductOf4Digits\NoOfSubstrings\bin\Debug\NoOfSubstrings.exe.config
+C:\Users\Jayanth C\source\repos\MaxProductOf4Digits\NoOfSubstrings\bin\Debug\NoOfSubstrings.exe
+C:\Users\Jayanth C\source\repos\MaxProductOf4Digits\NoOfSubstrings\bin\Debug\NoOfSubstrings.pdb
+C:\Users\Jayanth C\source\repos\MaxProductOf4Digits\NoOfSubstrings\obj\Debug\MaxOf4Digits.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\MaxProductOf4Digits\NoOfSubstrings\obj\Debug\MaxOf4Digits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jayanth C\source\repos\MaxProductOf4Digits\NoOfSubstrings\obj\Debug\MaxOf4Digits.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\MaxProductOf4Digits\NoOfSubstrings\obj\Debug\NoOfSubstrings.exe
+C:\Users\Jayanth C\source\repos\MaxProductOf4Digits\NoOfSubstrings\obj\Debug\NoOfSubstrings.pdb

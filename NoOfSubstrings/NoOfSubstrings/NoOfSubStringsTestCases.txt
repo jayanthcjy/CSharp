@@ -1,0 +1,33 @@
+1.      Take two strings as input and check whether the second string is a sub-string of the first or not. If yes, print the number of timesoccurredured in S1 and print the index positions
+        where the string appeared.
+
+Constraints:
+Let S1 is the String and S2 be the Substring
+S1,S2 contains lowercase alphabets i.e, S1,S2=[a-z]
+S1 should be greater than or equal to the length of S2 i.e, S1>=S2
+
+#TestCase1:
+  i/p : S1 = “abcdabcabd”
+
+        S2 = “ab”
+
+  o/p: No.of times occurred = 3
+
+        Index positions = 0 4 7
+
+#TestCase2:
+  i/p : S1 = “abcdabcabd”
+
+        S2 = “aa”
+
+  o/p: No.of times occurred = 0
+
+#TestCase3:
+  i/p : S1 = “ab”
+
+        S2 = “abc”
+
+  o/p: "The size of the String should be greater than or equal to Substring"
+
+
+
