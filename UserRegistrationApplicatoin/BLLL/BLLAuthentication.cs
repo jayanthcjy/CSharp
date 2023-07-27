@@ -43,11 +43,7 @@ namespace BLLL
 
         }
 
-        public void IsUserExist(User user)
-        {
-
-        }
-
+       
         /// <summary>
         /// taking the user oject from the ForgotPassword.aspx.cs and sending the object to the UpdateData
         /// </summary>
