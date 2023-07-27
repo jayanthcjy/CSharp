@@ -1,0 +1,6 @@
+C:\Users\Jayanth C\source\repos\UserRegistrationApplicatoin\BusinessModel\bin\Debug\BusinessModel.dll
+C:\Users\Jayanth C\source\repos\UserRegistrationApplicatoin\BusinessModel\bin\Debug\BusinessModel.pdb
+C:\Users\Jayanth C\source\repos\UserRegistrationApplicatoin\BusinessModel\obj\Debug\BusinessModel.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\UserRegistrationApplicatoin\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\UserRegistrationApplicatoin\BusinessModel\obj\Debug\BusinessModel.dll
+C:\Users\Jayanth C\source\repos\UserRegistrationApplicatoin\BusinessModel\obj\Debug\BusinessModel.pdb
